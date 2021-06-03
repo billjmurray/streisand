@@ -1,7 +1,3 @@
-# Streisand
-
-
-- - -
 [English](README.md), [Русский](README-ru.md) | [Mirror](https://gitlab.com/alimakki/streisand)
 
 Streisand
